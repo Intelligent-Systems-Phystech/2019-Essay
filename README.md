@@ -1,2 +1,2 @@
 # 2019-Essay
-The problem statemets and solution in short texts
+The problem statemets and solutions in short texts
